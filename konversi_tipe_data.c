@@ -6,5 +6,5 @@ int main(){
 
     float c = a / b;
 
-    printf("Hasil a/b = %.2f", c);
+    printf("Hasil a/b = %.2f\n", c);
 }
